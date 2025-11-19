@@ -1,0 +1,20 @@
+Computer
+
+Input
+
+Memory/Storage
+Information Storage
+❖ Memory: random access memory (RAM)
+❖ Storage: permanent storage (lasts until deleted), including
+hard-disk drive (HDD), solid-state drive (SSD),etc
+
+SSD (solid state drive)
+HDD (hard disk drive) stores data on spinning magnetic platters
+using a read/write head:
+
+int//float => float
+floor下取整
+ceil上取整
+round(a,b). b为小数位数
+
+round?提供help
